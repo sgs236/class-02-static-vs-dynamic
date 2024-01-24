@@ -9,7 +9,7 @@
   <h1>Page C</h1>
   <p>Is this page static, client-side rendered, or server-side rendered? (Replace TODO with your answer.)</p>
   <p><?php echo htmlspecialchars(date("l jS \o\f F Y h:i:s A")); ?></p>
-  <h2>Answer: TODO</h2>
+  <h2>Answer: server-site rendered.</h2>
 </body>
 
 </html>
